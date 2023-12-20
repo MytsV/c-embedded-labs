@@ -1,0 +1,14 @@
+main.c:93:6:CS43L22_Init	1
+main.c:168:6:CS43L22_Beep	18
+main.c:267:7:Play_Main	1
+main.c:264:6:Play_Jingle	1
+main.c:317:6:Play_Scale_Low	1
+main.c:341:6:Play_Scale_High	1
+main.c:366:6:Play_Octaves	1
+main.c:383:5:main	5
+main.c:446:6:SystemClock_Config	3
+main.c:497:13:MX_I2C1_Init	2
+main.c:531:13:MX_I2S3_Init	2
+main.c:563:13:MX_DMA_Init	1
+main.c:581:13:MX_GPIO_Init	1
+main.c:628:6:Error_Handler	1
